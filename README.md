@@ -64,6 +64,7 @@ Some of the methods listed are provided to you in the starter code. You should c
 - `Magazine.all`
   - Returns an array of all Magazine instances
 
+
 #### Article
 
 - `Article#initialize(author, magazine, title)`
